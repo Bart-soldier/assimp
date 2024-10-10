@@ -127,3 +127,6 @@ contrib/tinyusdz/autoclone
 
 # Build
 code/Debug/*
+
+# For Premake
+!_config_headers/assimp/*
